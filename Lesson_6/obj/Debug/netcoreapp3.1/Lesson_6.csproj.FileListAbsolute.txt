@@ -1,0 +1,14 @@
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.exe
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.deps.json
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.runtimeconfig.json
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.runtimeconfig.dev.json
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.dll
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.pdb
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.csproj.AssemblyReference.cache
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.AssemblyInfoInputs.cache
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.AssemblyInfo.cs
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.csproj.CoreCompileInputs.cache
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.dll
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.pdb
+H:\C#lesson\Lesson_6\Lesson\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.genruntimeconfig.cache
